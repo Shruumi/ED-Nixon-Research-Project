@@ -1,0 +1,78 @@
+OCCUPATION.HTML:
+
+<!DOCUMENT html>
+<html>
+  <head>
+    <title>
+      E.D. Nixon Research project - OCCUPATION
+    </title>
+    <link rel="stylesheet" href="css/Occupation.CSS>
+  </head>
+  <body>
+    <a href="">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/m-QXPmhklsM?si=KQdjRXX9izfossqM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </body>
+</html>
+
+OCCUPATION.CSS:
+
+/* unvisited link */
+a:link {
+  background-color: #FF0000;
+  padding: 3px;
+  border-radius 25px;
+  border-color: #FF0E00;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+  color: #0000FF;
+}
+
+
+
+index.html
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>
+            ED Nixon RESEARCH PROJECT
+        </title>
+        <link rel="stylesheet" href="index.css">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet">
+
+    </head>
+    <body>
+        <div class="mainbody">
+            <div class="TITLE">
+                <titletext>Edgar Daniel Nixon</titletext>
+                <p class="titledesc">The lawyer of claudette colvin who aided the rebellion!</p>
+            </div> 
+            <div class="TitleIMG">
+                <img src="" alt="Mugshot of E.D. Nixon">
+            </div>
+        </div>
+        <div class="Desc">
+                <h2>DESCRIPTION</h2>
+                <p>Edgar Daniel Nixon was a civil rights activist. who was alive from 1899 to 1987. E.D. Nixon had a profession as a Pullman porter, and a community activist. He had leadership positions in the NAACP and help bail Rosa Parks out of jail for the bus incident. He also recruited Dr. Martin Luther King Jr.E.D.</p>
+        </div>
+    </body>
+</html>
+
+index.CSS
+
+This is on your computer
